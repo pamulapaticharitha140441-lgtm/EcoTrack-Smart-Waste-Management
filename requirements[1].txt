@@ -1,0 +1,2 @@
+# No third-party packages required for the starter version.
+# Tkinter and SQLite are included with most standard Python installations.
